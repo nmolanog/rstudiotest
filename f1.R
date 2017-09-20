@@ -1,3 +1,3 @@
 rm(list=ls())
-f1<-function(x){exp(x)}
-f2<-function(x){log(x)}
+f1exp<-function(x){exp(x)}
+f2exp<-function(x){log(x)}
